@@ -2,3 +2,6 @@ first word
 second word
 therd word
 word
+
+no word
+just sword
